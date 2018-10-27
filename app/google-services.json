@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271510293857",
+    "firebase_url": "https://traffic-6f312.firebaseio.com",
+    "project_id": "traffic-6f312",
+    "storage_bucket": "traffic-6f312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271510293857:android:dfd4ac7cdf805385",
+        "android_client_info": {
+          "package_name": "com.example.sakshigupta.cbsmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271510293857-hcoh8137fgmpbdqtl3rjcfkirh26fcn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sakshigupta.cbsmap",
+            "certificate_hash": "8749e8591fdc3db9ce2451d17c73725841e7f0f8"
+          }
+        },
+        {
+          "client_id": "271510293857-9do7aprl3dekgnf1n6hf8tdf7v3183lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Q9y0zkR1-DbCf6rXuLyouydNW5Fyqro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271510293857-5c0639ltmdl7vun3ucaf70k0atjp07oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
