@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         editTextLongitude=(EditText)findViewById(R.id.editTextLongitude);
         btnsave=(Button)findViewById(R.id.btnsave);
         btnsave.setOnClickListener(this);
-       /* Intent myIntent = new Intent(this, MainActivity.class);
+       Intent myIntent = new Intent(this, MainActivity.class);
         myIntent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_WHEN_TASK_RESET);
         startActivity(myIntent);
         btnproceed.setOnClickListener(new View.OnClickListener() {
@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Intent i=new Intent(MainActivity.this,MapsActivity.class);
                 startActivity(i);
             }
-        });  */
+        });
     }
     private void saveUserInformation(){
         String name =editTextName.getText().toString().trim();
